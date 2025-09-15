@@ -1,3 +1,4 @@
+# pip install "paho-mqtt<2.0"
 import paho.mqtt.client as mqtt
 
 broker = "test.mosquitto.org"
